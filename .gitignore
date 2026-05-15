@@ -1,3 +1,6 @@
+# Memory (symlink to external notes)
+memory
+
 # Freqtrade rules
 config*.json
 *.sqlite
